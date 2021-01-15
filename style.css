@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-image {
+    background-image: url(images/slide-2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    background-color: #37B8D8;
+}
+.hight {
+    height: 580px;
+    padding-top: 100px;
+    
+}
+.size {
+    width: 100%;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
